@@ -18,6 +18,7 @@ Methods: addStudent(Student s, int index) - adds a student to the array; courseA
 toString() - returns a course summary.
 
 C. Instructions to compile and run
+
 Go to the src directory and run following commands:
 
 javac *.java
